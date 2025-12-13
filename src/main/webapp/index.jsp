@@ -2,6 +2,6 @@
 <body>
 <h2><%= "Hello World!" %></h2>
 <h2> Devops record</h2>
-<h2> docker</h2>
+<h2> docker_reload</h2>
 </body>
 </html>
